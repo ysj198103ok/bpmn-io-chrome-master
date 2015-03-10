@@ -1,6 +1,0 @@
-node_modules/
-.idea/
-*.iml
-dist/
-release/
-.DS_Store
